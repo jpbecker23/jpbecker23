@@ -1,5 +1,6 @@
 # 👋 Hi, I'm João Pedro! 👨‍💻
 
+
 <a href="https://github.com/jpbecker23/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark" />
 </a>
