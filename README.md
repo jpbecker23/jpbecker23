@@ -1,10 +1,10 @@
 # 👋 Hi, I'm João Pedro! 👨‍💻
 
 <a href="https://github.com/jpbecker23/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/jpbecker23/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpbecker23&layout=compact&langs_count=8&theme=dark&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jpbecker23&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
 
 # 🛠️ Technologies and Tools
