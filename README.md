@@ -51,7 +51,7 @@
 
 ## 📫 Connect with me
 
-  <a href="https://www.linkedin.com/in/joao-pedro-becker-da-silva/" target="_blank">
+  <a href="www.linkedin.com/in/joão-pedro-becker-da-silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
