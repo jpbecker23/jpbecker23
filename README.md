@@ -1,28 +1,62 @@
-# 👋 Hi, I'm João Pedro! 👨‍💻
+<div align="center">
 
-<a href="https://github.com/jpbecker23/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/jpbecker23/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jpbecker23&layout=compact&langs_count=8&theme=dark&card_width=320" />
-</a>
+# 👋 Hi, I'm João Pedro!
 
-# 🛠️ Technologies and Tools
-
-<div style="display: inline_block"><br>  
-  <img align="center" alt="jpbecker23-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">          
-  <img align="center" alt="jpbecker23-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jpbecker23-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="jpbecker23-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="jpbecker23-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jpbecker23-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jpbecker23-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ---
 
-<div> 
+<div align="center">
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/jpbecker23">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+</a>
+<a href="https://github.com/jpbecker23">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpbecker23&layout=compact&langs_count=8&theme=dark&hide_border=true&card_width=320&cache_seconds=86400" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Technologies and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C# logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5 logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3 logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript logo" />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL logo" />
+</div>
+
+---
+
+## 🎧 Now Playing on Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/w2ujpwey94lfuu9q5axwdurin">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2ujpwey94lfuu9q5axwdurin&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect with me
+
   <a href="https://www.linkedin.com/in/joao-pedro-becker-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  </a>
+
 </div>
