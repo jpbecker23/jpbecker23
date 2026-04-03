@@ -1,21 +1,9 @@
-<div align="center">
 
 # 👋 Hi, I'm João Pedro!
-
-</div>
-
----
-<div align="center">
-
-## 📊 GitHub Stats
 
   <img src="https://github-readme-stats-lac-seven-37.vercel.app/api?username=jpbecker23&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515&hide_border=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats-lac-seven-37.vercel.app/api/top-langs/?username=jpbecker23&layout=compact&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515&hide_border=true" height="170" alt="Top Languages">
   <img src="https://komarev.com/ghpvc/?username=jpbecker23&color=35FF69&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-
-</div>
-
----
 
 ## 🛠️ Technologies and Tools
 
@@ -35,8 +23,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL logo" />
 </div>
 
----
-
 ## 🎧 Now Playing on Spotify
 
 <div align="center">
@@ -44,8 +30,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w2ujpwey94lfuu9q5axwdurin&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" />
   </a>
 </div>
-
----
 
 <div align="center">
 
