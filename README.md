@@ -5,17 +5,13 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/jpbecker23">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jpbecker23&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/jpbecker23">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpbecker23&layout=compact&langs_count=8&theme=dark&hide_border=true&card_width=320&cache_seconds=86400" />
-</a>
+  <img src="https://github-readme-stats-lac-seven-37.vercel.app/api?username=jpbecker23&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515&hide_border=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats-lac-seven-37.vercel.app/api/top-langs/?username=jpbecker23&layout=compact&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515&hide_border=true" height="170" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=jpbecker23&color=35FF69&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
