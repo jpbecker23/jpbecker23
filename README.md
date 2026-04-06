@@ -1,11 +1,14 @@
+
+<div align="center">
+  <img src="./images/terminalAdj.PNG" alt="Meu perfil em terminal" />
+</div>
+
 <div align="center">
 
 # 👋 Hi, I'm João Pedro!
 
 </div>
-<div align="center">
-  <img src="./images/terminal.png" alt="Meu perfil em terminal" />
-</div>
+
 <br>
 
 <img align="left" src="https://github-readme-stats-lac-seven-37.vercel.app/api?username=jpbecker23&show_icons=true&title_color=35FF69&icon_color=35FF69&text_color=35FF69&bg_color=151515&hide_border=true" height="170" alt="GitHub Stats">
