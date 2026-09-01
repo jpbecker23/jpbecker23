@@ -55,6 +55,8 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="Postgre logo" />
   <img width="7" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux logo" />
+  <img width="7" />
 
 </div>
 
